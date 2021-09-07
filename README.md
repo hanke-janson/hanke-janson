@@ -23,5 +23,3 @@ Here are some ideas to get you started:
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=hanke-janson&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanke-janson&layout=compact" />
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanke-janson&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanke-janson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
