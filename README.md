@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>🏆 hanke-janson Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=hanke-janson&column=8"/>
 
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=hanke-janson&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanke-janson&layout=compact" />
+</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanke-janson&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanke-janson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
